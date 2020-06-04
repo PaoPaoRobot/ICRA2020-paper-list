@@ -9,6 +9,120 @@ ICRA 2020 received 3,512 submissions, a new record, from 64 countries and 14,665
 
 This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Recently we will classify these papers by topics. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [daiwei.song@outlook.com](mailto://daiwei.song@outlook.com)
 
+# categories
+
+- Awards I: Service Robots; Medical Robotics
+- Awards II: Robot Mechanisms and Design; Automation
+- Awards III: Human-Robot Interaction (HRI); Multi-Robot Systems
+- Awards IV: Unmanned Aerial Vehicles; Robot Vision
+- Awards V: Robot Manipulation; Cognitive Robotics
+- Awards VI: Best Student Paper Award; Best Conference Paper Award
+- SLAM  
+- Deep Learning in Robotics and Automation
+- Motion and Path Planning 
+- Aerial Systems: Mechanics and Control 
+- Autonomous Driving 
+- Localization 
+- Learning from Demonstration- Medical Robots and Systems 
+- Legged Robots- Multi-Robot Systems 
+- Modeling, Control, and Learning for Soft Robots
+- Manipulation
+- Sensor Fusion 
+- Compliance and Impedance Control
+- Visual Learning
+- Soft Sensors and Actuators
+- Wearable Robots
+- Cognitive Human-Robot Interaction
+- Robotics in Agriculture and Forestry
+- Calibration and Identification 
+- Industrial Robots
+- Biomimetics
+- Robust/Adaptive Control of Robotic Systems 
+- Space Robotics and Automation
+- Perception for Grasping and Manipulation
+- Humanoid Robots
+- Force Control 
+- Semantic Scene Understanding
+- Social Human-Robot Interaction 
+- Biologically-Inspired Robots- Robotics in Agriculture, Construction and Mining 
+- Kinematics 
+- Robot Safety
+- Swarms 
+- Simulation and Animation
+- Reinforcement Learning for Robotics 
+- Manipulation Planning 
+- Contact Modeling
+- Robotics in Hazardous Fields 
+- Dynamics
+- Product Design, Development and Prototyping
+- Cellular and Modular Robots
+- Performance Evaluation and Benchmarking
+- Aerial Systems: Applications
+- Learning and Adaptive Systems
+- Surgical Robotics: Laparascopy I
+- Surgical Robotics: Laparoscopy II
+- Surgical Robotics: Steerable Catheters/Needles
+- Path Planning for Multiple Mobile Robots or Agents 
+- Optimization and Optimal Control
+- Grasping
+- Omnidirectional Vision 
+- Force and Tactile Sensing- Visual-Based Navigation
+- Soft Robot Applications
+- Prosthetics and Exoskeletons 
+- Human-Centered Robotics 
+- Mechanism Design
+- Marine Robotics
+- Compliant Joint/Mechanism
+- Search and Rescue Robots 
+- Human Detection and Tracking 
+- Omnidirectional Vision and Audition
+- Hydraulic/Pneumatic Actuators
+- Service Robots 
+- Robot Perception 
+- Distributed Robot Systems
+- Range Sensing
+- Transfer Learning
+- Flexible Robots
+- Field and Space Robots
+- Recognition
+- Aerial Systems: Multi-Robots
+- Biological Cell Manipulation
+- Cooperating Robots 
+- RGB-D Perception
+- Task Planning
+- Brain-Machine Interfaces 
+- Tendon/Wire Mechanism
+- Agricultural Automation
+- Underactuated Robots
+- Applications- Robust and Sensor-Based Control
+- Object Detection, Segmentation and Categorization- Aerial Systems: Perception and Autonomy
+- Autonomous Vehicle Navigation
+- Mapping- Computer Vision for Other Robotic Applications
+- Humanoid and Bipedal Locomotion
+- Motion Control
+- Dexterous Manipulation
+- Computer Vision for Automation and Manufacturing
+- Visual Servoing
+- Soft Robot Materials and Design- Rehabilitation Robotics 
+- Physical Human-Robot Interaction- Telerobotics and Teleoperation
+- Collision Avoidance
+- Micro/Nano Robots
+- AI-Based Methods
+- Climbing Robots 
+- Failure Detection and Recovery
+- Learning to Predict
+- Learning for Motion Planning- Motion Control of Manipulators- Computer Vision for Medical Robots
+- Grippers and Other End-Effectors
+- Formal Methods in Robotics and Automation 
+- Parallel Robots
+- Mechanism and Verification
+- Model Learning for Control 
+- Mobile Manipulation
+- Computer Vision for Transportation
+- Haptics and Haptic Interfaces
+- Visual Tracking
+- Planning, Scheduling and Coordination
+- Reactive and Sensor-Based Planning
 
 
 
