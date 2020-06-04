@@ -7,7 +7,7 @@ ICRA is the largest robotics meeting in the world and is the flagship conference
 
 ICRA 2020 received 3,512 submissions, a new record, from 64 countries and 14,665 authors. Overall, 3,446 papers were reviewed. The 10 most popular keywords, in descending order, were: Deep Learning in Robotics and Automation, Motion and Path Planning, Localization, Learning and Adaptive Systems, Autonomous Vehicle Navigation, Multi-Robot Systems, SLAM, Object Detection, Segmentation and Categorization, and Visual-Based Navigation. 
 
-This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [Yvon Shong](mailto://daiwei.song@outlook.com).
+This list is edited by [PaopaoRobot, 泡泡机器人](https://github.com/PaoPaoRobot) , the Chinese academic nonprofit organization. Welcome to follow our github and our WeChat Public Platform Account ( [paopaorobot_slam](https://mp.weixin.qq.com/s?__biz=MzI5MTM1MTQwMw==&mid=100000102&idx=1&sn=0a8a831a4f2c18443dbf436ef5d5ff8c&chksm=6c10bf625b6736748c9612879e166e510f1fe301b72ed5c5d7ecdd0f40726c5d757e975f37af&mpshare=1&scene=1&srcid=0530KxSLjUE9I38yLgfO2nVm&pass_ticket=0aB5tcjeTfmcl9u0eSVzN4Ag4tkpM2RjRFH8DG9vylE%3D#rd) ). Of course, you could contact with [Yvon Shong](https://github.com/Yvon-Shong).
 
 # Categories
 
